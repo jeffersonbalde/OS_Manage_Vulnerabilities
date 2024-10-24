@@ -1,8 +1,3 @@
-import os1 from "./assets/1.jpg";
-import os2 from "./assets/2.jpg";
-import linux from "./assets/linux.gif";
-
-import linux2 from "./assets/linux2.gif";
 import windows from "./assets/windows.jpg";
 import bg1 from "./assets/bg1.jpg";
 
